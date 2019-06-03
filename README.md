@@ -19,5 +19,5 @@ $ npm start
 $ npm run generate
 ```
 ## Demo here
-[Demo Link](https://nuxtjs.org)
+[Demo Link](https://andychuang1.github.io/bv-pratice-nuxt/)
 
