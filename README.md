@@ -18,5 +18,6 @@ $ npm start
 # generate static project
 $ npm run generate
 ```
+## Demo here
+[Demo Link](https://nuxtjs.org)
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
