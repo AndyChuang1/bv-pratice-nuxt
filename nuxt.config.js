@@ -53,5 +53,8 @@ module.exports = {
     */
     extend(config, ctx) {
     }
+  },
+  router:{
+    base:process.env.DEPLOY_ENV === 'GH_PAGES'?'/bv-pratice-nuxt/':'/'
   }
 }
